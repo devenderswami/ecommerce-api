@@ -14,7 +14,7 @@ This project is a microservices-based e-commerce application. It consists of sev
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/nayanraj210401/ecommerce-rest-api.git
+   git clone https://github.com/devenderswami/ecommerce-api.git
    cd ecommerce-rest-api
    ```
 
@@ -150,8 +150,8 @@ classDiagram
 
 ### Performance Improvement Reports 
 - After moving from Molithic Architecture, We reduce the response time signficatly, For more details you can go through the reports
-1. With old Architecture - [performance-report](https://github.com/nayanraj210401/ecommerce-rest-api/blob/main/perf-ecom-rest-without-microservice.html)
-2. With the Proposed Architecture - [performance-report](https://github.com/nayanraj210401/ecommerce-rest-api/blob/main/perf-ecom-rest-with-microservice.html)
+1. With old Architecture - [performance-report](https://github.com/devenderswami/ecommerce-api/blob/main/perf-ecom-rest-without-microservice.html)
+2. With the Proposed Architecture - [performance-report](https://github.com/devenderswami/ecommerce-api/blob/main/perf-ecom-rest-with-microservice.html)
 
 #### Old Architecture
 <img width="795" alt="image" src="https://github.com/user-attachments/assets/b1b06bca-c4f1-4a78-aa00-b2195d57b034" />
